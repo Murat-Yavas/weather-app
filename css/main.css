@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../Images/bg-image.jpg);
+  background-repeat: no-repeat;
+}
+
+.header {
+  color: #1092ef;
+}
+
+.header img {
+  width: 100px;
+  height: 100px;
+}
+
+#city {
+  height: 40px;
+}
